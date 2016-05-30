@@ -1,2 +1,4 @@
 # ebmc-donation-mockup
-mockup for ebmc donation site 
+mockup for ebmc donation site
+
+test to see if git config user
